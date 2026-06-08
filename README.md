@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Giovanni Celestino
+# 🧑🏻‍💻 Giovanni Celestino
 
-**`Desenvolvedor Python em Andamento 💭`**
+**`Python Backend Developer | Automações`**
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -9,17 +9,21 @@
 </div>
 
 
- Hello!!😎
+ Olá!!😎
  
- Me chamo Giovanni Celestino, e atualmente atuo como Analista de Sistema, trabalhando com a ERP Protheus. Como também desenvolvendo automações em Python. 
- 
- Sou formado em Engenharia de Software desde 2023, e não paro de buscar conhecimento, sempre realizando cursos e me aprimorando.
+ Me chamo Giovanni Celestino, sou graduado em **Engenharia de Software** e atualmente atuo como **Analista de Sistemas**. No meu dia a dia, trabalho com as regras de negócio do ecossistema **ERP Protheus** e utilizo **Python** de forma estratégica para desenvolver automações inteligentes, web scrapers e ferramentas que otimizam processos rotineiros.
 
- Tenho me concentrado em Python e tenho criado pequenos projetos utilizando essa linguagem, mas já tive a oportunidade de experimentar outras linguagens como Java, Javascript, PHP, C e ADVPL(Protheus).
+Já experimentei outras linguagens como Java, JavaScript, PHP, C e ADVPL(Protheus).
 
+ ### 🧠 O que estou aprendendo agora
+
+- 📐 **Arquitetura Backend:** Migrando de scripts isolados em Python para ecossistemas completos com **FastAPI**, **SQLAlchemy** e **PostgreSQL**.
+- 🎨 **Interface & Ecossistema Front-End:** Dominando **React** com **TypeScript** e **Tailwind CSS** para criar a camada visual das minhas soluções.
+<br>
+<br>
  Deixo aqui meu perfil do Linkedin: [Perfil Giovanni Celestino](https://www.linkedin.com/in/giovanni-celestino/)
 
- See you later! 🫡
+
 
 
 
@@ -35,9 +39,7 @@
 
 ---
 
-### 🤖 Principais Linguagens e Tecnologias
-
-
+#### 💻 Ferramentas que atuo:
 <img 
     align="left" 
     alt="Python"
@@ -48,13 +50,55 @@
 />
 <img 
     align="left" 
+    alt="Selenium"
+    title="Selenium" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/selenium/original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS"
+    title="CSS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Figma"
+    title="Figma" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
+/>
+<br>
+#### 🚀 Próximos objetivos (Estudos & Projetos futuros):
+<img 
+    align="left" 
     alt="FastAPI"
     title="FastAPI" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/fastapi/original.svg"
 />
-
 <img 
     align="left" 
     alt="SQLAlchemy"
@@ -82,14 +126,6 @@
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/typescript/original.svg"
-/>
-<img 
-    align="left" 
     alt="Javascript"
     title="Javascript" 
     width="30px" 
@@ -98,21 +134,12 @@
 />
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="TypeScript"
+    title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://devicon-website.vercel.app/api/typescript/original.svg"
 />
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
 
 <img 
     align="left" 
@@ -123,23 +150,6 @@
     src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg"
 />
 
-
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Figma"
-    title="Figma" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
 
 <br/>
 <br/>
