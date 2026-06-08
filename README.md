@@ -8,7 +8,7 @@
  
  Sou formado em Engenharia de Software desde 2023, e não paro de buscar conhecimento, sempre realizando cursos e me aprimorando.
 
- Tenho me concentrado em Python e tenho criado pequenos projetos utilizando essa linguagem, mas já tive a oportunidade de experimentar outras linguagens como Java, Javascript, PHP e C.
+ Tenho me concentrado em Python e tenho criado pequenos projetos utilizando essa linguagem, mas já tive a oportunidade de experimentar outras linguagens como Java, Javascript, PHP, C e ADVPL(Protheus).
 
  Deixo aqui meu perfil do Linkedin: [Perfil Giovanni Celestino](https://www.linkedin.com/in/giovanni-celestino/)
 
@@ -41,27 +41,53 @@
 />
 <img 
     align="left" 
+    alt="FastAPI"
+    title="FastAPI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/fastapi/original.svg"
+/>
+
+<img 
+    align="left" 
     alt="SQLAlchemy"
     title="SQLAlchemy" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"
+    src="https://devicon-website.vercel.app/api/sqlalchemy/original.svg"
 />
 <img 
     align="left" 
-    alt="PHP"
-    title="PHP" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+    src="https://devicon-website.vercel.app/api/postgresql/original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/react/original.svg"
 />
 <img 
     align="left" 
-    alt="C"
-    title="C" 
+    alt="TypeScript"
+    title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
+    src="https://devicon-website.vercel.app/api/typescript/original.svg"
+/>
+<img 
+    align="left" 
+    alt="Javascript"
+    title="Javascript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
 <img 
     align="left" 
@@ -79,22 +105,18 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+
+
 <img 
     align="left" 
-    alt="Javascript"
-    title="Javascript" 
+    alt="Tailwindcss"
+    title="Tailwindcss" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg"
 />
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
+
+
 <img 
     align="left" 
     alt="Git"
