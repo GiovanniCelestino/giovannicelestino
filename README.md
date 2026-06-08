@@ -1,14 +1,14 @@
 # 👩🏻‍💻 Giovanni Celestino
 
-**`Desenvolvedor FullStack em Andamento 💭`**
+**`Desenvolvedor Python em Andamento 💭`**
 
  Hello!!😎
  
- Me chamo Giovanni Celestino, e atualmente atuo como Analista de Sistema, trabalhando com a ERP Protheus. Como também cuido de outras frentes dentro da TI. 
+ Me chamo Giovanni Celestino, e atualmente atuo como Analista de Sistema, trabalhando com a ERP Protheus. Como também desenvolvendo automações em Python. 
  
  Sou formado em Engenharia de Software desde 2023, e não paro de buscar conhecimento, sempre realizando cursos e me aprimorando.
 
- Tenho me concentrado em Python e tenho criado pequenos projetos utilizando essa linguagem, mas já tive a oportunidade de experimentar outras linguagens como Java, Javascript, PHP e C. Além disso, estou investindo no aprendizado de inglês, pois vejo como um excelente complemento para meus estudos e desenvolvimento.
+ Tenho me concentrado em Python e tenho criado pequenos projetos utilizando essa linguagem, mas já tive a oportunidade de experimentar outras linguagens como Java, Javascript, PHP e C.
 
  Deixo aqui meu perfil do Linkedin: [Perfil Giovanni Celestino](https://www.linkedin.com/in/giovanni-celestino/)
 
