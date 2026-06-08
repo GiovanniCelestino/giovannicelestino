@@ -2,6 +2,13 @@
 
 **`Desenvolvedor Python em Andamento 💭`**
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem+vindo+ao+meu+perfil!" alt="Typing SVG">
+  </a>
+</div>
+
+
  Hello!!😎
  
  Me chamo Giovanni Celestino, e atualmente atuo como Analista de Sistema, trabalhando com a ERP Protheus. Como também desenvolvendo automações em Python. 
@@ -145,14 +152,14 @@
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GiovanniCelestino&show_icons=true&theme=github_dark&include_all_commits=true&custom_title=Giovanni%20GitHub%20%20Stats" 
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=GiovanniCelestino&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&cache_seconds=86400"
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanniCelestino&layout=compact&theme=github_dark&langs_count=9"
+      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=GiovanniCelestino&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
 
 </p>
