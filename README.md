@@ -21,13 +21,14 @@ Já experimentei outras linguagens como Java, JavaScript, PHP, C e ADVPL(Protheu
 - 🎨 **Interface & Ecossistema Front-End:** Dominando **React** com **TypeScript** e **Tailwind CSS** para criar a camada visual das minhas soluções.
 <br>
 <br>
- Deixo aqui meu perfil do Linkedin: [Perfil Giovanni Celestino](https://www.linkedin.com/in/giovanni-celestino/)
+Conecte-se comigo no LinkedIn: https://www.linkedin.com/in/giovanni-celestino/
 
 
 
 
 
 <p align="left">
+  <br>
     <a href="https://github.com/giovannicelestino?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
