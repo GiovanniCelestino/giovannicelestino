@@ -1,6 +1,6 @@
 # 🧑🏻‍💻 Giovanni Celestino
 
-**`Python Backend Developer | Automações`**
+**`Python Backend Developer | RPA Developer`**
 
 <div align="center">
   <a href="https://git.io/typing-svg">
